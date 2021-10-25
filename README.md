@@ -1,6 +1,6 @@
 # DRISHTI
 
-DRISHTI is a non-invasive biometric system that captures face, expression and gesture of targeted persons (criminals) through a network of distributed  CCTV cameras and also maintains detailed log in a database.
+DRISHTI is a non-invasive biometric surveillance system that captures the face, expression, age, gender, gait, and activities of individuals (target persons or criminals) as well as possible weapons present in a distributed CCTV camera system. Also, it maintains a detailed log in the database. DRISHTI won 1st prize in Smart India Hackathon 2020.
 
 ## DRISTI has following sub-modules:
 ### 1. Face Recognition
